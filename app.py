@@ -6,7 +6,6 @@ from datetime import date
 
 # CONFIGURAÇÕES
 SPREADSHEET_ID = "1xX-cUKFpCh4poFpBvghXb0lMO6SW0hAgJCd3KH4_X1s"
-CREDENTIALS_FILE = "credentials.json"
 SHEET_PROCESSOS = "Processos"
 SHEET_PESSOAS = "Pessoas"
 
